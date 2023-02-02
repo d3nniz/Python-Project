@@ -7,6 +7,7 @@ In this project i extracted data from multiple file formats, transformed it into
 
 <h2>Languages and Utilities Used</h2>
 
+
 - <b>Python</b> 
 - <b>JupyterLab</b>
 
@@ -16,7 +17,7 @@ In this project i extracted data from multiple file formats, transformed it into
 
 <p align="center">
 Project Certificate: <br/>
-<img src="https://imgur.com/a/Y4folDu" height="80%" width="80%"/>
+<img src="https://user-images.githubusercontent.com/29946319/216333511-9004371d-7a2f-409f-aa76-d7d9cd1cb408.png" height="80%" width="80%"/>
 <br />
 
 <!--
